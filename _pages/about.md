@@ -43,8 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📂 Industrial Projects
-- Project of Reasoning Technology Based on Medical Knowledge, Huawei Cloud Computing Technology Co., Ltd.
-- Domain Knowledge-Based Decision Inference Model Project, Huawei Technologies Co., Ltd
+- *2021.09 - 2022.09* Project of Reasoning Technology Based on Medical Knowledge, Huawei Cloud Computing Technology Co., Ltd.
+- *2019.10 - 2021.12* Domain Knowledge-Based Decision Inference Model Project, Huawei Technologies Co., Ltd
 
 # 📖 Educations
 - *2021.09 - (now)*, Ph.D. candidate, Harbin Institute of Technology, Harbin
@@ -52,9 +52,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2016.09 - 2020.06*, Undergraduate, Harbin Engineering University, Harbin
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2020.06* Outstanding Graduate of Harbin Engineering University
+- *2019.03* Three Good Students in Heilongjiang Province
+- *2018.12* National Scholarship
+- *2018.06* Second Prize of the Ministry of Industry and Information Technology's Entrepreneurship Scholarship
 
 
 [//]: # (# 💬 Invited Talks)
