@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Haotian Wang(王好天)"
 description              : "PhD student at Harbin Institute of Technology, focusing on NLP, medical AI, disease diagnosis, NLP reasoning"
-repository               : "FutureForMe.github.io"
+repository               : "FutureForMe/FutureForMe.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
