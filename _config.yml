@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haotian Wang(王好天)"
+title                    : "Haotian Wang"
 description              : "PhD student at Harbin Institute of Technology, focusing on NLP, medical AI, disease diagnosis, NLP reasoning"
 repository               : "FutureForMe/FutureForMe.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haotian Wang     (王好天)"
+  name             : "Haotian Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Harbin Institute of Technology"
   location         : "Harbin, China"
