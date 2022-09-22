@@ -63,7 +63,7 @@ My research interest includes nature language processing and medical AI. No well
 - *2016.09 - 2020.06*, Undergraduate, Harbin Engineering University, Harbin
 
 # 🎖 Honors and Awards
-- *2020.06* Outstanding Graduate of Harbin Engineering University
+- *2020.06* Outstanding Graduate Student Award of Harbin Engineering University
 - *2019.03* Three Good Students in Heilongjiang Province
 - *2018.12* National Scholarship
 - *2018.06* Second Prize of the Ministry of Industry and Information Technology's Entrepreneurship Scholarship
