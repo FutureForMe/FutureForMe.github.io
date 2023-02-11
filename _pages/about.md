@@ -29,9 +29,9 @@ My research interest includes nature language processing and medical AI. No well
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
-- **Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis**
-  **Haotian Wang**, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang
-  2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+- Haotian Wang, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang. 
+  [Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis](https://ieeexplore.ieee.org/document/9994978/authors?signout=success#authors)
+  In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ pages 2542-2549, Dec 2022. [[Code]()]
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
