@@ -29,7 +29,9 @@ My research interest includes nature language processing and medical AI. No well
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
-- Wang H, Guan Y, Ma L, et al. Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis[C]//2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2022: 2542-2549.
+- **Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis**
+  **Haotian Wang**, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang
+  2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
