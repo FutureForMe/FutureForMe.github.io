@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haotian Wang"
-description              : "PhD student at Harbin Institute of Technology, focusing on NLP, medical AI, disease diagnosis, NLP reasoning"
+description              : "PhD student at HIT, focusing on NLP, knowledge reasoning and biomedical applications."
 repository               : "FutureForMe/FutureForMe.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Haotian Wang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/wanghaotian.jpg"
   bio              : "Harbin Institute of Technology"
   location         : "Harbin, China"
   employer         :

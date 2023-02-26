@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD candidate at Harbin Institute of Technology, advised by Prof. [Yi Guan](https://wi.hit.edu.cn/info/1004/1011.htm). I am a member of [HIT-WI](https://wi.hit.edu.cn/index.htm). The current work mainly focuses on NLP reasoning, medical NLP and model interpretability. If you are doing the same research or are interested in my research work, please feel free to email me [wanght1998@gmail.com](mailto:wanght1998#gmail.com).
+I am currently a PhD candidate in Faculty of Computing at [Harbin Institute of Technology](https://www.hit.edu.cn/), advised by Prof. [Yi Guan](https://wi.hit.edu.cn/info/1004/1011.htm). I am a member of [HIT-WI](https://wi.hit.edu.cn/index.htm). The current work mainly focuses on NLP, knowledge reasoning and biomedical applications. If you are doing the same research or are interested in my research work, please feel free to email me [wanght1998@gmail.com](mailto:wanght1998#gmail.com).
 
-My research interest includes nature language processing and medical AI. No well-known papers have been published so far, but efforts are being made.
+I obtained my Bachelor's degree at the School of Computer Science and Technology, Harbin Engineering University. After being recommended to Harbin Institute of Technology to study for a master's degree, I applied for a combined master's and doctoral degree.
 
 # 🔥 News
 - 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!
