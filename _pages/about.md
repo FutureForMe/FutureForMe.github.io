@@ -67,6 +67,7 @@ My research interest includes nature language processing and medical AI. No well
 - *2016.09 - 2020.06*, Undergraduate, Harbin Engineering University, Harbin
 
 # 🎖 Honors and Awards
+- *2022.12* First prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition
 - *2020.06* Outstanding Graduate Student Award, from Harbin Engineering University
 - *2019.06* First Prize of Chinese Collegiate Computing Competition
 - *2019.03* Three Good Students in Heilongjiang Province
