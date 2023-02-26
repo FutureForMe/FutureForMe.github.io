@@ -22,7 +22,8 @@ I am currently a PhD candidate at Harbin Institute of Technology, advised by Pro
 My research interest includes nature language processing and medical AI. No well-known papers have been published so far, but efforts are being made.
 
 # 🔥 News
-- Stay tuned...
+- 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!
+- 2022.11: One paper accepted by BIBM 2022！
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
@@ -31,7 +32,7 @@ My research interest includes nature language processing and medical AI. No well
 # 📝 Publications 
 - **Haotian Wang**, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang. 
   [Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis](https://ieeexplore.ieee.org/document/9994978/authors?signout=success#authors)
-  In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ pages 2542-2549, Dec 2022. [[Code]()]
+  In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ pages 2542-2549, Dec 2022. [[Code](https://github.com/FutureForMe/MSLAN-ACG)]
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
@@ -56,6 +57,7 @@ My research interest includes nature language processing and medical AI. No well
 [//]: # (- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet]&#40;https://github.com&#41;, A, B, C, **CVPR 2020**)
 
 # 📂 Industrial Projects
+- *2021.12 - (now)* National Key R\&D Program of China, Ministry of Science and Technology
 - *2021.09 - 2022.09* Project of Reasoning Technology Based on Medical Knowledge, Huawei Cloud Computing Technology Co., Ltd.
 - *2019.10 - 2021.12* Domain Knowledge-Based Decision Inference Model Project, Huawei Technologies Co., Ltd
 
@@ -65,10 +67,13 @@ My research interest includes nature language processing and medical AI. No well
 - *2016.09 - 2020.06*, Undergraduate, Harbin Engineering University, Harbin
 
 # 🎖 Honors and Awards
-- *2020.06* Outstanding Graduate Student Award of Harbin Engineering University
+- *2020.06* Outstanding Graduate Student Award, from Harbin Engineering University
+- *2019.06* First Prize of Chinese Collegiate Computing Competition
 - *2019.03* Three Good Students in Heilongjiang Province
-- *2018.12* National Scholarship
-- *2018.06* Second Prize of the Ministry of Industry and Information Technology's Entrepreneurship Scholarship
+- *2018.12* National Scholarship, from Ministry Education
+- *2810.12* Second Prize of Mathematical Contest in Modeling in Three Provinces of Northeast China
+- *2018.06* Second Prize of Innovation Scholarship, from Ministry of Industry and Information Technology
+- *2018.06* Second Prize of Heilongjiang Mathematical Contest in Modeling
 
 
 [//]: # (# 💬 Invited Talks)
