@@ -22,8 +22,9 @@ I am currently a PhD candidate in Faculty of Computing at [Harbin Institute of T
 I obtained my Bachelor's degree at the School of Computer Science and Technology, Harbin Engineering University. After being recommended to Harbin Institute of Technology to study for a master's degree, I applied for a combined master's and doctoral degree.
 
 # 🔥 News
+- 2023.03: One paper accepted by Journal of Chinese Information Processing!
 - 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!
-- 2022.11: One paper accepted by BIBM 2022！
+- 2022.11: One paper accepted by BIBM 2022!
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
