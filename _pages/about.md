@@ -22,6 +22,7 @@ I am currently a PhD candidate in Faculty of Computing at [Harbin Institute of T
 I obtained my Bachelor's degree at the School of Computer Science and Technology, Harbin Engineering University. After being recommended to Harbin Institute of Technology to study for a master's degree, I applied for a combined master's and doctoral degree.
 
 # 🔥 News
+- 2023.03: One paper accepted by Journal of Expert Systems with Applications!
 - 2023.03: One paper accepted by Journal of Chinese Information Processing!
 - 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!
 - 2022.11: One paper accepted by BIBM 2022!
@@ -31,6 +32,12 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
+- Yang Yang, Xue Li, Yi Guan, **Haotian Wang**, Chaoran Kong, Jingchi Jiang.
+  [LHP: Logical hypergraph link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003433)
+  In _Journal of Expert Systems with Applications, 2023: 119842._ [[Code](https://github.com/yang1992samantha/LHP)]
+- **Haotian Wang**, Xin Li, Yi Guan, Yang Yang, Xue Li, Jingchi Jiang.
+  [Multi-view Representation Learning Network Based on Knowledge Augmentation for Auxiliary Diagnosis](https://github.com/FutureForMe/MVRLN/blob/master/%E6%9C%80%E7%BB%88%E7%A8%BF.pdf)
+  In _Journal of Chinese Information Processing, 2023._ [[Code](https://github.com/FutureForMe/MVRLN)]
 - **Haotian Wang**, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang. 
   [Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis](https://ieeexplore.ieee.org/document/9994978/authors?signout=success#authors)
   In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ pages 2542-2549, Dec 2022. [[Code](https://github.com/FutureForMe/MSLAN-ACG)]
