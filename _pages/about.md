@@ -43,12 +43,12 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
 Medical Diagnosis]() [C]. In _2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ [[Code](https://github.com/YanPioneer/EBAD)]
 - Yang Yang, Xue Li, Yi Guan, **Haotian Wang**, Chaoran Kong, Jingchi Jiang.
   [LHP: Logical hypergraph link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003433)
-  In _Journal of Expert Systems with Applications, 2023._ [[Code](https://github.com/yang1992samantha/LHP)]
+  [J]. In _Journal of Expert Systems with Applications, 2023._ [[Code](https://github.com/yang1992samantha/LHP)]
 - **Haotian Wang**, Xin Li, Yi Guan, Yang Yang, Xue Li, Jingchi Jiang.
   [Multi-view Representation Learning Network Based on Knowledge Augmentation for Auxiliary Diagnosis](https://github.com/FutureForMe/MVRLN/blob/master/%E6%9C%80%E7%BB%88%E7%A8%BF.pdf)
-  In _Journal of Chinese Information Processing, 2023._ [[Code](https://github.com/FutureForMe/MVRLN)]
+  [J]. In _Journal of Chinese Information Processing, 2023._ [[Code](https://github.com/FutureForMe/MVRLN)]
 - **Haotian Wang**, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang. 
-  [Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis](https://ieeexplore.ieee.org/document/9994978/authors?signout=success#authors)
+  [Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis](https://ieeexplore.ieee.org/document/9994978/authors?signout=success#authors) [C]
   In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_. [[Code](https://github.com/FutureForMe/MSLAN-ACG)]
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
