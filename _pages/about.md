@@ -31,16 +31,25 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
 
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
+# 📄 Preprint
+- Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, **Haotian Wang**, Ming Liu, Bing Qin. [TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models](https://arxiv.org/abs/2311.17667). arXiv, 2023. [[Code](https://github.com/zchuz/TimeBench)]
+- Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, **Haotian Wang**, Weihua Peng, Ming Liu, Bing Qin, Ting Liu. [A survey of chain of thought reasoning: Advances, frontiers and future](https://arxiv.org/abs/2309.15402). arXiv, 2023. [[Code](https://github.com/zchuz/CoT-Reasoning-Survey)]
+- Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, **Haotian Wang**, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, Ting Liu. [A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions](https://arxiv.org/abs/2311.05232). arXiv, 2023[[Code](https://github.com/LuckyyySTA/Awesome-LLM-hallucination)]
+- Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, **Haotian Wang**, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin. [Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications](https://arxiv.org/abs/2311.05876). arXiv, 2023. 
+
+
 # 📝 Publications 
+- Lian Yan, Yi Guan, **Haotian Wang**, Yi Lin, Jingchi Jiang. [Efficient Evidence-Based Dialogue System for
+Medical Diagnosis]() [C]. In _2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ [[Code](https://github.com/YanPioneer/EBAD)]
 - Yang Yang, Xue Li, Yi Guan, **Haotian Wang**, Chaoran Kong, Jingchi Jiang.
   [LHP: Logical hypergraph link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003433)
-  In _Journal of Expert Systems with Applications, 2023: 119842._ [[Code](https://github.com/yang1992samantha/LHP)]
+  In _Journal of Expert Systems with Applications, 2023._ [[Code](https://github.com/yang1992samantha/LHP)]
 - **Haotian Wang**, Xin Li, Yi Guan, Yang Yang, Xue Li, Jingchi Jiang.
   [Multi-view Representation Learning Network Based on Knowledge Augmentation for Auxiliary Diagnosis](https://github.com/FutureForMe/MVRLN/blob/master/%E6%9C%80%E7%BB%88%E7%A8%BF.pdf)
   In _Journal of Chinese Information Processing, 2023._ [[Code](https://github.com/FutureForMe/MVRLN)]
 - **Haotian Wang**, Yi Guan, Linjiang Ma, Xin Li, Yi Lin, Jingchi Jiang. 
   [Multi-scale Label Attention Network based on Abductive Causal Graph for Disease Diagnosis](https://ieeexplore.ieee.org/document/9994978/authors?signout=success#authors)
-  In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)._ pages 2542-2549, Dec 2022. [[Code](https://github.com/FutureForMe/MSLAN-ACG)]
+  In _2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_. [[Code](https://github.com/FutureForMe/MSLAN-ACG)]
 
 [//]: # (<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>)
 
