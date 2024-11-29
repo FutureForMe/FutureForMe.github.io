@@ -32,12 +32,13 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
 [//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📄 Preprint
-
-- **Haotian Wang**, Xiyuan Du, Weijiang Yu, Qianglong Chen, Kun Zhu, Zheng Chu, Lian Yan, Yi Guan. [Learning to Break: Knowledge-Enhanced Reasoning in Multi-Agent Debate System](https://arxiv.org/abs/2312.04854). arXiv, 2023.
 - Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, **Haotian Wang**, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin. [Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications](https://arxiv.org/abs/2311.05876). arXiv, 2023. 
 
 
 # 📝 Publications
+- **Haotian Wang**, Xiyuan Du, Weijiang Yu, Qianglong Chen, Kun Zhu, Zheng Chu, Lian Yan, Yi Guan. 
+  [Learning to Break: Knowledge-Enhanced Reasoning in Multi-Agent Debate System](https://arxiv.org/abs/2312.04854) [J].
+  _In Neurocomputing, 2023._ [[Code](https://github.com/FutureForMe/MADKE)]
 - **Haotian Wang**, Xin Li, Yi Guan, Yang Yang, Xue Li, Jingchi Jiang.
   [Multi-view Representation Learning Network Based on Knowledge Augmentation for Auxiliary Diagnosis](https://github.com/FutureForMe/MVRLN/blob/master/%E6%9C%80%E7%BB%88%E7%A8%BF.pdf) [J].
   In _Journal of Chinese Information Processing, 2023._ [[Code](https://github.com/FutureForMe/MVRLN)]
@@ -48,7 +49,7 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
   [EIRAD: An Evidence-based Dialogue System with Highly Interpretable Reasoning Path for Automatic Diagnosis](https://ieeexplore.ieee.org/abstract/document/10595530) [J].
   In _IEEE Journal of Biomedical and Health Informatics, 2024._ 
 - Lian Yan, Yi Guan, **Haotian Wang**, Yi Lin, Jingchi Jiang.
-  [Efficient Evidence-Based Dialogue System for Medical Diagnosis](https://ieeexplore.ieee.org/abstract/document/10385366/) [J].
+  [Efficient Evidence-Based Dialogue System for Medical Diagnosis](https://ieeexplore.ieee.org/abstract/document/10385366/) [C].
   In _2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)_. [[Code](https://github.com/YanPioneer/EBAD)]
 - Yang Yang, Xue Li, Yi Guan, **Haotian Wang**, Chaoran Kong, Jingchi Jiang.
   [LHP: Logical hypergraph link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417423003433) [J].
@@ -57,10 +58,10 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
   [BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering](https://aclanthology.org/2024.acl-long.67.pdf) [C]. 
   In _Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2024._ [[Code](https://github.com/zchuz/TimeBench)]
 - Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, **Haotian Wang**, Ming Liu, Bing Qin. 
-  [TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models](https://arxiv.org/abs/2311.17667) [C]
+  [TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models](https://arxiv.org/abs/2311.17667) [C].
   In _Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2024._ 
 - Kun Zhu, Xiaocheng Feng, Xiyuan Du, Yuxuan Gu, Weijiang Yu, **Haotian Wang**, Qianglong Chen, Zheng Chu, Jingchang Chen, Bing Qin.
-  [An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation](https://aclanthology.org/2024.acl-long.59.pdf) [C]
+  [An Information Bottleneck Perspective for Effective Noise Filtering on Retrieval-Augmented Generation](https://aclanthology.org/2024.acl-long.59.pdf) [C].
   In _Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2024._ 
 - Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, **Haotian Wang**, Weihua Peng, Ming Liu, Bing Qin, Ting Liu. 
   [A survey of chain of thought reasoning: Advances, frontiers and future](https://arxiv.org/abs/2309.15402) [C].
