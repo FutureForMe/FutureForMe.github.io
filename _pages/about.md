@@ -29,9 +29,6 @@ I obtained my Bachelor's degree at the School of Computer Science and Technology
 - 2023.03: One paper accepted by Journal of Expert Systems with Applications!
 - 2023.03: One paper accepted by Journal of Chinese Information Processing!
 
-[//]: # (- 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!)
-
-[//]: # (- 2022.11: One paper accepted by BIBM 2022!)
 
 # 📄 Preprint
 - Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, **Haotian Wang**, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin. [Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications](https://arxiv.org/abs/2311.05876). arXiv, 2023. 
