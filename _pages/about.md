@@ -22,14 +22,16 @@ I am currently a PhD candidate in Faculty of Computing at [Harbin Institute of T
 I obtained my Bachelor's degree at the School of Computer Science and Technology, Harbin Engineering University. After being recommended to Harbin Institute of Technology to study for a master's degree, I applied for a combined master's and doctoral degree.
 
 # 🔥 News
+- 2024.11: One paper accepted by Neurocomputing!
+- 2024.10: One paper accepted by ACM Transactions on Information Systems!
+- 2024.07: One paper accepted by IEEE Journal of Biomedical and Health Informatics!
+- 2024.06: Four papers accepted by ACL 2024!
 - 2023.03: One paper accepted by Journal of Expert Systems with Applications!
 - 2023.03: One paper accepted by Journal of Chinese Information Processing!
-- 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!
-- 2022.11: One paper accepted by BIBM 2022!
 
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+[//]: # (- 2022.12: We won the 1st prize of the "Huawei Cloud Cup" 2022 Artificial Intelligence Application Innovation Competition!)
 
-[//]: # (- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+[//]: # (- 2022.11: One paper accepted by BIBM 2022!)
 
 # 📄 Preprint
 - Zhangyin Feng, Weitao Ma, Weijiang Yu, Lei Huang, **Haotian Wang**, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin. [Trends in Integration of Knowledge and Large Language Models: A Survey and Taxonomy of Methods, Benchmarks, and Applications](https://arxiv.org/abs/2311.05876). arXiv, 2023. 
